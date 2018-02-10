@@ -11,7 +11,17 @@ body{
     background-color: #ff4081;
 }
 
-H1
-H2{
+H1,
+H2 {
     font-family: 'Rammetto One', cursive;
+    text-align: center;
+}
+
+h1 {
+    font-size: 77px;
+}
+
+li {
+    display: inline-block;
+
 }
